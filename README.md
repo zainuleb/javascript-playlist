@@ -16,7 +16,7 @@
     
 [linkedin-url]:https://www.linkedin.com/in/zainuleb/
 [linkedin-shield]:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[medium-shield]:https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[medium-shield]:https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [medium-url]:https://zainulebadd.medium.com
-[github-shield]:https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
+[github-shield]:https://img.shields.io/github/followers/{zainuleb}.svg?style=for-the-badge&logo=github&colorB=555
 [github-url]:https://github.com/zainuleb
