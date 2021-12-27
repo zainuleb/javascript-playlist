@@ -9,9 +9,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/zainuleb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzainuleb&screen_name=zainuleb)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Medium][medium-shield]][medium-url]
     
     
     
 [linkedin-url]: https://www.linkedin.com/in/zainuleb/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [medium-shield]:https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://zainulebadd.medium.com
